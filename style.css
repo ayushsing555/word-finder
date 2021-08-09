@@ -1,0 +1,42 @@
+
+body{
+    background-color: rgb(153, 197, 111);
+}
+*{
+    font-family: 'Pacifico', cursive;
+
+}
+#text{
+    margin-top: 30px;
+    margin-left: 20px;
+    height: 200px;
+    color: rgb(112, 165, 42);
+    text-align: center;
+    width: 500px;
+    font-size: 25px;
+    border: 2px double red;
+}
+
+#answer{
+    border:1px solid red;
+    color: blue;
+    height: 40px;
+    font-size: 25px;
+    width:180px;
+    text-align: center;
+}
+#input:focus{
+    background-color: rgb(135, 135, 197);
+}
+h2{
+    font-size: 50px;
+}
+#button{
+    width: 100px;
+    background-color: crimson;
+}
+#button:hover{
+    background-color: darkgoldenrod;
+    
+}
+
